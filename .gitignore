@@ -6,6 +6,8 @@ datasets/
 runs/
 runs_lab/
 autolabel/
+# ...trừ file nhãn nộp bài (rubric #7)
+!submission/autolabel/
 tiger-pose-anat.yaml
 tiger-pose-mirror.yaml
 tiger-pose-mirror/

@@ -1,6 +1,9 @@
 # Bài tập về nhà 3 — Đo cả pipeline: YOLO26n ONNX trên CPU
 
-Notebook: [`bai_tap_ve_nha_onnx.ipynb`](../bai_tap_ve_nha_onnx.ipynb) (đã chạy trên Colab, còn nguyên output).
+Link notebook đã chạy: https://github.com/vuthien3002-sys/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/submission/bai_tap_ve_nha_onnx.ipynb
+
+Notebook nằm ngay trong thư mục này: [`bai_tap_ve_nha_onnx.ipynb`](bai_tap_ve_nha_onnx.ipynb) (đã chạy trên Colab, còn nguyên output).
+Notebook bài làm chính: https://github.com/vuthien3002-sys/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb
 Môi trường: Intel Xeon CPU @ 2.00GHz, 2 luồng · `ultralytics 8.4.171` · `onnxruntime 1.30.0` (CPUExecutionProvider) ·
 `onnx 1.23.1`, opset 18. Mọi lệnh export và predict đều đặt `device="cpu"`.
 

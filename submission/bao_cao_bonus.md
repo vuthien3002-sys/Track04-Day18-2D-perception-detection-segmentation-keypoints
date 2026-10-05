@@ -1,5 +1,7 @@
 # Báo cáo bonus — Lab Ngày 18
 
+Link notebook đã chạy: https://github.com/vuthien3002-sys/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb
+
 Mọi số liệu dưới đây lấy từ output của `lab_2d_perception_student.ipynb` (Restart & Run All trên Colab, GPU Tesla T4,
 `ultralytics==8.4.171`) và từ `submission/ket_qua.json`.
 
